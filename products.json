@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Chizi Burger",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/pro4.jpg" } } }
+      }
+    }
+  ]
+}
